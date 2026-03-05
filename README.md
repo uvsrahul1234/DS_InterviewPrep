@@ -1,2 +1,6 @@
 # DS
-Repository for Interview revision
+Repository for Data Science
+* Interview revision
+* concepts
+* keywords/definations
+* implementations
